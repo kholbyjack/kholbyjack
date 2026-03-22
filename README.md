@@ -1,5 +1,5 @@
 ## Hi there 🧀
-I am an undergraduate student studying computer science, specifically software engineering. I am particularly interested in UI/UX design and computer vision, and I love to learn new things. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaitlynholbert/) or [Handshake](https://floridapoly.joinhandshake.com/profiles/de58az).
+I am an undergraduate student studying computer science, concentrating in software engineering. I am particularly interested in UI/UX design and computer vision, and I love to learn new things. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kaitlynholbert/) or [Handshake](https://floridapoly.joinhandshake.com/profiles/de58az).
 
 <!--
 **kholbyjack/kholbyjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
